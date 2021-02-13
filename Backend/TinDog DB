@@ -1,4 +1,4 @@
-CREATE TABLE Navigation_bar (
+CREATE TABLE navigation_bar (
     brand_name STRING,
     first_item STRING,
     second_item STRING,
